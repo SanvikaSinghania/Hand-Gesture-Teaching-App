@@ -6,6 +6,7 @@ A GUI based application that uses OpenCV, SQL, Tkinter and PIL.
 * OpenCV
 * Pillow
 * SQL
+* Numpy
 
 ## Functionalities
 * Display - Displays hand gestures of entered alphabet
